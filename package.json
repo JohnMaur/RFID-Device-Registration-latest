@@ -1,7 +1,6 @@
 {
   "name": "deviceregistrationserver",
   "version": "1.0.0",
-  "description": "",
   "main": "Device-Registration-server.js",
   "scripts": {
     "start": "node Device-Registration-Server.js"
@@ -15,5 +14,7 @@
     "koa": "^2.15.3",
     "koa-router": "^12.0.1",
     "socket.io": "^4.7.5"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
